@@ -1,0 +1,16 @@
+newmtl treeFallSG
+illum 4
+Kd 1.00 0.63 0.20
+Ka 0.20 0.20 0.20
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.20 0.20 0.20
+Ns 18.00
+newmtl treeFallSG1
+illum 4
+Kd 0.91 0.84 0.67
+Ka 0.20 0.20 0.20
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.20 0.20 0.20
+Ns 18.00

@@ -1,0 +1,16 @@
+newmtl structureClothSG
+illum 4
+Kd 0.91 0.60 0.37
+Ka 0.20 0.20 0.20
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.20 0.20 0.20
+Ns 18.00
+newmtl structureClothSG1
+illum 4
+Kd 0.98 0.42 0.27
+Ka 0.20 0.20 0.20
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.20 0.20 0.20
+Ns 18.00
